@@ -15,7 +15,7 @@ The recomended way to install **Freebird** is through [Composer](http://getcompo
 curl -sS https://getcomposer.org/installer | php
 
 # Add Freebird as a dependency
-php composer.phar require mademovement/freebird:~0.1.1
+php composer.phar require mademovement/freebird-php:~0.1.1
 ```
 
 After installing, you need to require Composer's autoloader:
